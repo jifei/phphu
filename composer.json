@@ -1,4 +1,4 @@
-   {
+{
     "name": "phphu",
     "type": "library",
     "description": "Logging for PHP 5.3",
@@ -20,4 +20,4 @@
         "psr-0": {
             "phphu": "src/"
         }
-    }
+}
