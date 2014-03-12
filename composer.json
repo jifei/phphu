@@ -2,12 +2,12 @@
     "type": "library",
     "description": "Logging for PHP 5.3",
     "keywords": ["log","logging"],
-    "homepage": "http://github.com/Seldaek/monolog",
+    "homepage": "http://github.com/jifei/phphu",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jordi Boggiano",
-            "email": "j.boggiano@seld.be",
+            "name": "Jifei",
+            "email": "jifei@outlook",
             "homepage": "http://seld.be",
             "role": "Developer"
         }
@@ -17,6 +17,6 @@
     },
     "autoload": {
         "psr-0": {
-            "Monolog": "src"
+            "phphu": "src/"
         }
     }
